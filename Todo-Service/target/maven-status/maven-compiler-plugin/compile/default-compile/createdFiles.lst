@@ -1,0 +1,15 @@
+org\todoservice\utilities\JsonResponse.class
+org\todoservice\security\GeneratorFactory.class
+org\todoservice\services\CTaskHandler.class
+org\todoservice\services\TaskHandler.class
+org\todoservice\security\MD5Generator.class
+org\todoservice\security\TokenGenerator.class
+org\todoservice\utilities\ResponseUtils.class
+org\todoservice\exception\ErrorHandlerException.class
+org\todoservice\interfaces\Task.class
+org\todoservice\beans\TaskBean.class
+org\todoservice\beans\UserSession.class
+org\todoservice\interfaces\Authentication.class
+org\todoservice\exception\BussinesException.class
+org\todoservice\security\GeneratorFactoryMethod.class
+org\todoservice\security\Authorization.class
